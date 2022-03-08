@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/myMessanger/static/js/main.e45bacb9.js",
+    "static/js/787.8dc73863.chunk.js": "/myMessanger/static/js/787.8dc73863.chunk.js",
+    "index.html": "/myMessanger/index.html",
+    "main.e45bacb9.js.map": "/myMessanger/static/js/main.e45bacb9.js.map",
+    "787.8dc73863.chunk.js.map": "/myMessanger/static/js/787.8dc73863.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e45bacb9.js"
+  ]
+}
